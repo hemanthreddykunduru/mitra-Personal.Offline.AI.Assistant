@@ -10,7 +10,7 @@
 [![Version](https://img.shields.io/badge/Version-v1.0.1-blue.svg)](#)
 [![License](https://img.shields.io/badge/License-Open%20Source-orange.svg)](#)
 
-[📥 Download APK](https://copilot.microsoft.com/) • [🎯 Features](#features) • [📱 Screenshots](#screenshots) • [🔧 Installation](#installation)
+[📥 Download APK](https://google.com/) • [🎯 Features](#features) • [📱 Screenshots](#screenshots) • [🔧 Installation](#installation)
 
 </div>
 
