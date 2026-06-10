@@ -45,7 +45,7 @@ Mitra AI is a revolutionary offline AI assistant that runs entirely on your Andr
 - ✅ Memory-efficient operation
 - ✅ Offline knowledge base
 
-### Coming Soon (v1.0.2 - End of 2025)
+### Coming Soon (v1.0.2 - End of 2026)
 - 🎤 Voice chat capabilities
 - 📝 Rich text formatting
 - 🐛 Enhanced stability
@@ -98,8 +98,8 @@ Mitra AI is a revolutionary offline AI assistant that runs entirely on your Andr
 
 ### Built With
 - **Language**: Java/Kotlin for Android
-- **AI Framework**: [Your AI framework here]
-- **3D Graphics**: [Your 3D framework here]
+- **AI Framework**: GenAI
+- **3D Graphics**: Three.js
 - **UI**: Material Design components
 - **Architecture**: MVVM pattern with LiveData
 
@@ -127,7 +127,7 @@ mitra-ai/
 
 ## 🗺️ Roadmap
 
-### Version 1.0.2 (End of 2025)
+### Version 1.0.2 (End of 2026)
 - [ ] Voice chat integration
 - [ ] Enhanced 3D agent interactions
 - [ ] Google Play Store submission
