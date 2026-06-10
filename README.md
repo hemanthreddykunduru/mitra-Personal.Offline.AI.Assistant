@@ -150,15 +150,6 @@ We welcome contributions from the community! Here's how you can help:
 4. **Testing**: Help test new features and report feedback
 5. **Documentation**: Improve our docs and guides
 
-### Development Setup
-```bash
-# Clone the repository
-git clone [https://hemanthreddykunduru.github.io/mitra-Personal.Offline.AI.Assistant/index.html]
-
-# Open in Android Studio
-# Build and run on device or emulator
-```
-
 ## 📄 License
 
 This project is open source. See [LICENSE](LICENSE) file for details.
